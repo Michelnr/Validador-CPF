@@ -1,8 +1,11 @@
-cpf = int(input(5788661706))
+cpf_lista = [5788661706, 11501643797, 23392206709]
+
+# cpf = input("informe o CPF para validação: ")
+
 cpf_soma = 0
-multi = 0
+multi = 10
 
-for num in cpf:
-    cpf_soma += multi * num
-
-print(cpf)
+for n in cpf_lista:
+#    cont = multi
+#    cpf_soma += 0
+    print(n)
