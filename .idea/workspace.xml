@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58d65c41-feb4-4445-904b-656c9ec3ca75" name="Changes" comment="Foi resolvido o problema do fatiamento do CPF">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validador-CPF.py" beforeDir="false" afterPath="$PROJECT_DIR$/Validador-CPF.py" afterDir="false" />
-    </list>
+    <list default="true" id="58d65c41-feb4-4445-904b-656c9ec3ca75" name="Changes" comment="Acertos no fatiamento." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.Validador-CPF.executor": "Debug",
+    "Python.Validador-CPF.executor": "Run",
     "Python.teste.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -192,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706542930797</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Acertos no fatiamento.">
+      <option name="closed" value="true" />
+      <created>1706547023156</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706547023156</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +214,7 @@
     <MESSAGE value="Criando o repositorio" />
     <MESSAGE value="criação" />
     <MESSAGE value="Foi resolvido o problema do fatiamento do CPF" />
-    <option name="LAST_COMMIT_MESSAGE" value="Foi resolvido o problema do fatiamento do CPF" />
+    <MESSAGE value="Acertos no fatiamento." />
+    <option name="LAST_COMMIT_MESSAGE" value="Acertos no fatiamento." />
   </component>
 </project>
