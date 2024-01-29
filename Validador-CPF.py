@@ -5,11 +5,6 @@ multi = 0
 
 cpf = str(cpf_lista[0])
 
-if len(cpf) < 11:
-    multi = 9
-else:
-    multi = 10
-
 for n in cpf[:-2]:
     cpf_conv = int(n)
     cpf_soma += cpf_conv * multi
