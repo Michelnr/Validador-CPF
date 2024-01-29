@@ -22,4 +22,4 @@ A Região Fiscal onde é emitido o CPF (definida pelo nono dígito) tem as segui
 - 9 - PR e SC
 - 0 - RS
 
-Fonte: [Clubes de Matemátiva da OBMEP](http://clubes.obmep.org.br/blog/a-matematica-nos-documentos-a-matematica-dos-cpfs/#:~:text=Os%20primeiros%20oito%20d%C3%ADgitos%2C%20ABCDEFGH,dos%20noves%20anteriores%20a%20ele.)
+Fonte: [Clubes de Matemática da OBMEP](http://clubes.obmep.org.br/blog/a-matematica-nos-documentos-a-matematica-dos-cpfs/#:~:text=Os%20primeiros%20oito%20d%C3%ADgitos%2C%20ABCDEFGH,dos%20noves%20anteriores%20a%20ele.)
