@@ -1,3 +1,5 @@
+# Este programa irá validar se um CPF é valido ou não utilizando um algoritmo específico.
+
 cpf_lista = [5788661706, 11501643797, 23392206709]
 
 cpf_soma = 0
