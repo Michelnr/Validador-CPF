@@ -21,4 +21,3 @@ for n in cpf[:-2]:
     multi += -1
 
     print(multi)
-a
