@@ -10,8 +10,8 @@ cpf = (cpf_lista[0])
 cpf_fat = int(cpf[cpf_dig])
 
 # Calculo do primeiro digito
-while multi != 1:
-    cpf_soma += cpf_fat * multi
+while multi != 2:
+    #cpf_soma =+ cpf_fat * multi
     print(cpf_dig)
     multi -= 1
     cpf_dig += 1
@@ -24,4 +24,4 @@ while multi != 1:
 #    cpf_soma += cpf[0] * multi
 #    multi -= 1
 #    cpf_dig += 1
-#print(cpf_fat)
+print(cpf_dig)
