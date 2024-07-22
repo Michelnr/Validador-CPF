@@ -5,3 +5,5 @@ cpf_lista = ['05788661706', '11501643797', '23392206709']
 cpf = (cpf_lista[0])
 
 print(cpf)
+
+#teste
