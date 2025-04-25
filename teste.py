@@ -1,15 +1,16 @@
+# Este programa irá validar se um CPF é valido ou não.
+cpf_lista = '28001238938' #['05788661706', '11501643797', '23392206709']
+
 def digitos(cpf, cont = 10):
-    cpf = int(cpf)
     soma = 0
-    digito = 0
-    for digito in cpf:
+    fat = 0
+    while cont > 2:
+        digito = cpf[fat]
         soma += digito * cont
         cont -= 1
-    digito = soma % 11
+    digito_cpf = soma % 11
 
-    return digito
+    return digito_cpf
 
-cpf_lista = '05788661706'
-
-digitos(cpf_lista[0:9])
-print(cpf_lista[0:9])
+cpf_lista = int(cpf_lista)
+digitos(cpf_lista)
