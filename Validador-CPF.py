@@ -23,24 +23,24 @@ for cpf in cpf_lista:
     if primeiro_digito == int(cpf[9]) and segundo_digito == int(cpf[10]):
         print(f'O CPF {cpf} é válido.')
         if cpf[8] == "1": 
-            print("Possiveis estados – DF, GO, MS, MT e TO")
+            print("Possíveis estados – DF, GO, MS, MT e TO\n")
         elif cpf[8] == "2":
-            print ("Possiveis estados – AC, AM, AP, PA, RO e RR")
+            print ("Possíveis estados – AC, AM, AP, PA, RO e RR\n")
         elif cpf[8] == "3":
-            print ("Possiveis estados – CE, MA e PI")
+            print ("Possíveis estados – CE, MA e PI\n")
         elif cpf[8] == "4":
-            print ("Possiveis estados – AL, PB, PE, RN")
+            print ("Possíveis estados – AL, PB, PE, RN\n")
         elif cpf[8] == "5":
-            print ("Possiveis estados – BA e SE")
+            print ("Possíveis estados – BA e SE\n")
         elif cpf[8] == "6":
-            print ("Possiveis estados – MG")
+            print ("Possíveis estados – MG\n")
         elif cpf[8] == "7":
-            print ("Possiveis estados – ES e RJ")
+            print ("Possíveis estados – ES e RJ\n")
         elif cpf[8] == "8":
-            print ("Possiveis estados – SP")
+            print ("Possíveis estados – SP\n")
         elif cpf[8] == "9":
-            print ("Possiveis estados – PR e SC")
+            print ("Possíveis estados – PR e SC\n")
         elif cpf[8] == "0":
-            print ("Possiveis estados – RS")
+            print ("Possíveis estados – RS\n")
     else:
-        print(f'O CPF {cpf} é inválido.')
+        print(f'O CPF {cpf} é inválido.\n')
